@@ -5,7 +5,7 @@ I am a Project Editor and Staff Engineer at The New York Times, within the Inter
 My work includes software development, web development, data journalism and occasionally some reporting. Of course this profile centers the nerdy parts of my job.
 
 Where else I can also be found:
-- <a rel="me" href="https://www.nytimes.com/by/tiff-fehr" target="bio">My NYT byline page</a>
-- <a href="https://github.com/newsdev/about-int" target="int">About INT (my team at @nytimes)</a>
-- <a rel="me" href="https://www.tiffehr.com" target="tiffehr">tiffehr.com</a>
-- <a rel="me" href="https://journa.host/@tiffehr" target="journo">Mastodon</a>, et al
+- [My NYT byline page](https://www.nytimes.com/by/tiff-fehr)
+- [About INT (my team at @nytimes](https://github.com/newsdev/about-int)
+- [tiffehr.com](https://www.tiffehr.com)
+- [Mastodon, et al](https://journa.host/@tiffehr){:rel="me"}
