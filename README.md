@@ -6,6 +6,6 @@ My work includes software development, web development, data journalism and occa
 
 Where else I can also be found:
 - [My NYT byline page](https://www.nytimes.com/by/tiff-fehr)
-- [About INT (my team at @nytimes](https://github.com/newsdev/about-int)
+- [About INT (my team at @nytimes)](https://github.com/newsdev/about-int)
 - [tiffehr.com](https://www.tiffehr.com)
-- [Mastodon, et al](https://journa.host/@tiffehr){:rel="me"}
+- [Mastodon, et al](https://journa.host/@tiffehr)
